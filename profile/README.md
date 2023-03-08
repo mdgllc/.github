@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.mdgsolutions.com/" title="MDG" target="_blank"><img src="https://www.mdgsolutions.com/wp-content/themes/mdg/images/svg/mdg-logo.svg" alt="MDG Logo" width="20%"></a></p>
+<p align="center"><a href="https://www.mdgsolutions.com/" title="MDG" target="_blank"><img src="https://www.mdgsolutions.com/wp-content/uploads/2023/01/MDG-OG-Image.png" alt="The multi-location marketing solutions agency."></a></p>
 
 We are a national, full-service, marketing solutions partner with deep specialization in multi-location businesses like yours.
 
